@@ -54,7 +54,7 @@ margin-left: 64px;
     left: 64px;
     bottom: 30px;
 }
-a{
+.header__link{
 color: #2f80ed;
 }
 .main__illustration{
@@ -209,7 +209,6 @@ margin-top: 70px;
 }
 .link{
   text-decoration: none;
-
 }
 
 
