@@ -271,6 +271,7 @@ margin-top: 70px;
 }
 .logo_place_footer{
   background-image: url(../images/logo_place_header.svg);
+  color: white;
 }
 .footer__author{
   line-height: 25px;
