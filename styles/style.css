@@ -270,8 +270,8 @@ margin-top: 70px;
   flex-basis: 711px;
 }
 .logo_place_footer{
-  background-image: url(../images/logo_place_header.svg);
-  color: white;
+  background-image: url(../images/logo_place_footer.svg);
+
 }
 .footer__author{
   line-height: 25px;
