@@ -57,7 +57,7 @@ margin-left: 64px;
 .header__link{
 color: #2f80ed;
 }
-.main__illustration{
+.header__main__illustration{
   position: absolute;
   width: 765px;
   height: 608px;
@@ -66,7 +66,6 @@ color: #2f80ed;
   z-index: 2;
 
 }
-/* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
 .header__square-pic {
   height: 568px;
   width: 568px;
@@ -211,11 +210,6 @@ margin-top: 70px;
   text-decoration: none;
 }
 
-
-
-
-
-
 /* и элемента с модификатором вида ключ-значение */
 .kaufman{
   background-color: #1f1f1f;
@@ -247,7 +241,7 @@ margin-top: 70px;
   position: absolute;
   right: -210px;
   display: flex;
-  background-image: url(../images/kaufman-triangle.svg);
+  background-image: url(./images/kaufman-triangle.svg);
   background-size:contain;
   width: 877px;
   height: 877px;
@@ -276,7 +270,7 @@ margin-top: 70px;
   flex-basis: 711px;
 }
 .logo_place_footer{
-  background-image: url(../images/logo_place_footer.svg);
+  background-image: url(./images/.logo_place_footer.svg);
 }
 .footer__author{
   line-height: 25px;
