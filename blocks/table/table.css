@@ -1,6 +1,10 @@
 .table {
-    display: flex;
+  display: flex;
     width: 1100px;
-    flex-flow: row wrap;
+    flex-wrap: wrap;
     justify-content: space-between;
-  }
+    margin: 0 auto;
+    padding: 0;
+}
+    
+  
