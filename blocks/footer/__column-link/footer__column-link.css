@@ -1,5 +1,5 @@
 .footer__column-link{
-  margin: 0 0 16px;
+  margin:0;
   text-decoration: none;
   transition: opacity .2 linear;
   color: white;
@@ -10,4 +10,7 @@
 }
 .footer__column-link:hover{
   opacity: .5;
+}
+.footer__column-link:last-child{
+  margin-bottom: 16px;
 }
