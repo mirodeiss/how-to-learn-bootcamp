@@ -11,6 +11,3 @@
 .footer__column-link:hover{
   opacity: .5;
 }
-.footer__column-link:last-child{
-  margin-bottom: 16px;
-}
